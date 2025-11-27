@@ -1,21 +1,25 @@
-# 🚀 Boyke Ramadha — Portfolio Projects Repository
+<!-- Header -->
+<h1 align="center">🟡👾 Boyke Ramadha — PAC-MAN Projects Repository 👾🟡</h1>
+<p align="center">
+  <em>Fifth–semester Computer Science student from Nusaputra University</em>
+</p>
 
-Hi! I'm **Boyke Ramadha**, a fifth–semester Computer Science student at **Nusaputra University** with a passion for software development, UI/UX design, and building practical solutions through technology.  
-This repository serves as a curated collection of the projects I’ve built throughout my learning journey—ranging from web development, IoT experiments, mobile prototypes, system design, and more.
-
----
-
-## 🌟 About Me
-
-- 🎓 **Computer Science Student** (5th Semester)  
-- 💡 Interested in **Full-Stack Development**, **UI/UX**, and **IoT-based systems**
-- 🎨 Experienced with **Figma** (Wireframes, Mockups, Prototypes)
-- 🛠️ Backend & system development experience using **Laravel**, **Node.js**, and **database design**
-- ✨ Always exploring new technologies and improving my problem-solving skills
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="150">
+</p>
 
 ---
 
-## 📂 Repository Structure
+## 🟦 1. About Me — *The Player*
+Hi! I'm **Boyke Ramadha**, a student navigating the maze of Computer Science—collecting knowledge like PAC-MAN collecting pellets.
 
-This repository hosts multiple projects, each inside its own folder:
+- 🎓 5th-semester **Computer Science** student  
+- 🎨 UI/UX lover (Figma addict 🟡)  
+- 🛠 Focus on **Web Development**, **Backend Systems**, and **IoT**  
+- 💭 Passionate about learning, building, and leveling up every project  
+
+---
+
+## 👾 2. Repository Map — *Choose Your Level*
+This repository is the maze where all my projects live.
 
